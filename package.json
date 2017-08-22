@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-admin-2-nodejs-hbs",
+  "version": "1.0.0",
+  "description": "Bootstrap admin 2 powered by NodeJS, Express & hbs templating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fahmi Ncibi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "handlebars": "^4.0.10",
+    "hbs": "^4.0.1"
+  }
+}
